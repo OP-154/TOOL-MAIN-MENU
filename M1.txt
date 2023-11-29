@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FB"+"AV/69.0.0.26.76;FBBV/25862460;FB"+"DM/{den"+"sity=1.5,wid"+"th=540,hei"+"ght=888};FB"+"LC/en_US;FB"+"CR/AT&amp-T;FB"+"MF/moto"+"rola;FB"+"BD/mot"+"orola;FBPN/com.facebook.katana;FB"+"DV/XT1"+"021;FB"+"SV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]

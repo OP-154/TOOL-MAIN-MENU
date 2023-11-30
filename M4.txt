@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/322.0.0.35.121;FBBV/297186794;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBRV/0;FBCR/Vodafone IN;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ZC554KL;FBSV/8.1.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]

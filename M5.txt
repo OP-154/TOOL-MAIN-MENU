@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/296.0.0.44.119;FBBV/255824650;FBDM/{density=2.0,width=720,height=1344};FBLC/en_US;FBRV/258179871;FBCR/TIM;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(6) play;FBSV/9;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/85.0.0.15.70;FBBV/33678624;FBDM/{density=1.5,width=480,height=854};FBLC/it_IT;FBCR/;FBMF/WIKO;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/LENNY2;FBSV/5.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]

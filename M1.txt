@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/393.0.0.81.92;FBBV/791629791;FBRV/0;FBPN/com.facebook.katana;FBLC/en_IN;FBMF/Nokia;FBBD/Nokia;FBDV/Nokia Asha 663 Max;FBSV/4;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1440};FB_FW/1;]
+FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957732;FBDM/{density=3.0,width=1080,height=2181};FBLC/en_GB;FBRV/334074629;FBCR/1O1O;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G9960;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]

@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/60.0.0.16.76;FBBV/20454129;FBDM/{density=3.0,width=1080,height=1920};FBLC/en_US;FBCR/vodafone IE;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G901F;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 11; Infinix X6511E Build/RP1A.200720.011) [FBAN/EMA;FBBV/601616647;FBAV/408.0.0.14.111;FBDV/Infinix X6511E;FBLC/en_US;FBNG/4G;FBMNT/METERED;FBDM/{density=2.0}]

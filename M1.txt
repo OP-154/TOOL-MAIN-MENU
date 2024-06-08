@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997166;FBDM/{density=2.25,width=720,height=1172};FBLC/it_IT;FBRV/0;FBCR/vodafone IT;FBMF/WIKO;FBBD/WIKO;FBPN/com.facebook.katana;FBDV/U PULSE LITE;FBSV/7.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/381.0.0.29.105;FBBV/394408693;FBDM/{density=3.0,width=2061,height=1080};FBLC/en_US;FBRV/0;FBCR/Banglalink;FBMF/HUAWEI;FBBD/HONOR;FBPN/com.facebook.katana;FBDV/LLD-AL20;FBSV/8.0.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]

@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/262.0.0.34.117;FBBV/203997183;FBDM/{density=3.0,width=1080,height=1776};FBLC/es_LA;FBRV/205339004;FBCR/entel;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/Moto G (5);FBSV/8.1.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/382.0.0.33.111;FBPN/com.facebook.katana;FBLC/ru_RU;FBBV/394408512;FBCR/Astelit-LIFE;FBMF/Asus;FBBD/Asus;FBDV/ASUS_Z01QD;FBSV/7.1.2;FBCA/x86:armeabi-v7a;FBDM/{density=1.5,width=720,height=1280};FB_FW/1;FBRV/0;]

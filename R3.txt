@@ -1,1 +1,0 @@
-[FBAN/FB4A;FBAV/387.0.0.3028;FBBV/3503428;[FBAN/FB4A;FBAV/151.0.0.44.205;FBBV/81374851;FBDM/{density=2.0,width=720,height=1280};FBLC/pt_PT;FBRV/82651122;FBCR/Banglalink;FBMF/Hisense;FBBD/Hisense;FBPN/com.facebook.katana;FBDV/Hisense L678;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]

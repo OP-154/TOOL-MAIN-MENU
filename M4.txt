@@ -1,1 +1,1 @@
-[FBAN/PAAA;FBAV/369.0.0.19.112;FBDM/{density=2.75,width=1080,height=2134};FBLC/en_US;FBBV/387360148;FB_FW/2;FBSN/Android;FBDI/a584af9c-e761-4592-b93c-ad7c1b042316;FBCR/A1 SRB;FBMF/Xiaomi;FBBD/Redmi;FBDV/Redmi Note 8 Pro;FBSV/10;FBCA/arm64-v8a:null;]
+[FBAN/Orca-Android;FBAV/243.0.0.12.117;FBPN/com.facebook.orca;FBLC/en_PH;FBBV/185139851;FBCR/GLOBE;FBMF/samsung;FBBD/samsung;FBDV/SM-A505GN;FBSV/9;FBCA/arm64-v8a:null;FBDM/{density=2.625,width=1080,height=2131};FB_FW/1;]
